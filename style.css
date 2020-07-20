@@ -1,0 +1,707 @@
+.main {
+
+position: absolute;
+width: 680px;
+height: 4114px;
+left: calc(50% - 680px/2);
+top: 195px;
+
+background: #E2E3EF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.25);
+}
+
+body {
+position: relative;
+width: 964px;
+height: 4383px;
+
+background: #3DD0FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.shapka {
+position: absolute;
+width: 766px;
+height: 104px;
+left: 99px;
+top: 37px;
+
+background: #FFAFF7;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+.text_s {
+position: absolute;
+width: 700px;
+height: 49px;
+left: 140px;
+top: 27px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #031782;
+}
+
+.zaglavie1 {
+position: absolute;
+width: 369px;
+height: 59px;
+left: 298px;
+top: 203px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.rules1 {
+position: absolute;
+width: 642px;
+height: 1313px;
+left: 161px;
+top: 262px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+text-indent: 9px;
+
+color: #000000;
+}
+
+.zaglavie2 {
+position: absolute;
+width: 509px;
+height: 52px;
+left: 228px;
+top: 1535px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+
+.rules2 {
+position: absolute;
+width: 642px;
+height: 2645px;
+left: 161px;
+top: 1607px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+text-indent: 9px;
+color: #000000;
+}
+
+.fonp {
+position: absolute;
+width: 223px;
+height: 46px;
+left: -34px;
+top: 1015.04px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #3B0256;
+
+opacity: 0.7;
+transform: rotate(-53.41deg);
+}
+
+/*.sn1 {
+position: absolute;
+width: 53px;
+height: 46px;
+left: 19px;
+top: 37px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #000000;
+}*/
+
+.sn2 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 896px;
+top: 92px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+}
+
+.lopyx {
+position: absolute;
+width: 115px;
+height: 47px;
+left: 15.43px;
+top: 290px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #DB00FF;
+
+opacity: 0.7;
+transform: rotate(41.97deg);
+}
+
+.san1 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 48px;
+top: 609px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+.sneg1 {
+position: absolute;
+width: 45px;
+height: 40px;
+left: 885px;
+top: 1058px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+
+}
+
+.ATstudio {
+position: absolute;
+width: 173px;
+height: 47px;
+left: -15.48px;
+top: 1603px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #578000;
+
+opacity: 0.7;
+transform: rotate(64.77deg);
+}
+
+.🐧 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 44px;
+top: 1926px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+}
+
+.Planetarium {
+position: absolute;
+width: 240px;
+height: 47px;
+left: -54px;
+top: 2191.95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #020542;
+
+opacity: 0.7;
+transform: rotate(-77.11deg);
+}
+
+.sn3 {
+position: absolute;
+width: 29px;
+height: 47px;
+left: 51px;
+top: 2568px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.DreaMY {
+position: absolute;
+width: 153px;
+height: 47px;
+left: -17.14px;
+top: 2760px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #354702;
+
+opacity: 0.7;
+transform: rotate(60.38deg);
+}
+
+.🦌 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 47px;
+top: 3242px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+
+}
+
+.✶ {
+position: absolute;
+width: 32px;
+height: 47px;
+left: 71px;
+top: 3037px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.san2 {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 879px;
+top: 3598px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+.✵ {
+position: absolute;
+width: 36px;
+height: 47px;
+left: 880px;
+top: 346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.Toxic_rat{
+position: absolute;
+width: 180px;
+height: 47px;
+left: 814px;
+top: 717.73px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #365536;
+
+opacity: 0.7;
+transform: rotate(-64.7deg);
+}
+
+.✧ {
+position: absolute;
+width: 35px;
+height: 47px;
+left: 873px;
+top: 852px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.✯ {
+position: absolute;
+width: 36px;
+height: 47px;
+left: 52px;
+top: 1333px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.M_O_R_O_N {
+position: absolute;
+width: 280px;
+height: 50px;
+left: 758.89px;
+top: 1352px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+letter-spacing: 0.06em;
+
+color: #990000;
+
+opacity: 0.7;
+transform: rotate(73.29deg);
+}
+
+.❅ {
+position: absolute;
+width: 30px;
+height: 47px;
+left: 878px;
+top: 1620px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.Garlick228 {
+position: absolute;
+width: 213px;
+height: 47px;
+left: 793px;
+top: 1955.03px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #870644;
+
+opacity: 0.7;
+transform: rotate(-69.13deg);
+}
+
+.☆ {
+position: absolute;
+width: 42px;
+height: 47px;
+left: 867px;
+top: 2236px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.Acid_rain {
+position: absolute;
+width: 183px;
+height: 47px;
+left: 813.47px;
+top: 2587px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #721F05;
+
+opacity: 0.7;
+transform: rotate(71.11deg);
+}
+
+.☃ {
+position: absolute;
+width: 40px;
+height: 40px;
+left: 873px;
+top: 2953px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+.Daria_Tapok {
+position: absolute;
+width: 245px;
+height: 47px;
+left: 787px;
+top: 3260.42px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #390154;
+
+opacity: 0.7;
+transform: rotate(-75.71deg);
+}
+
+.✸ {
+position: absolute;
+width: 34px;
+height: 47px;
+left: 71px;
+top: 3517px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.by {
+position: absolute;
+width: 350px;
+height: 29px;
+left: 307px;
+top: 4333px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+opacity: 0.45;
+}
+
+.menu {
+  background: #555 url('images/menu-bg.jpg') repeat left top;
+  left: -285px; /* прячем меню */
+  height: 100%;
+  position: fixed;
+  width: 285px;
+}
+
+
+/* Basic CSS */
+
+
+
+.menu ul {
+  border-top: 1px solid #555;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  border-bottom: 1px solid #555;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.menu li:hover {
+  cursor: pointer;
+  background-color: #555;
+  }
+
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 6px;
+}
+
+.icon-menu {
+  color: #fff;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 60px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu1 {
+color: #009AF0
+}
+
+.icon-menu img {
+  margin-right: 5px;
+}
